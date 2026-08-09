@@ -1,4 +1,4 @@
-# WeathrTrackr
+# WeathrTrackr App
 
 WeathrTrackr is an Android app that allows users to track and save weather conditions at different locations. The app combines real-time weather data from OpenWeatherMap with Google Maps (both using REST API transfer) integration to provide a visual and interactive weather tracking experience.
 
